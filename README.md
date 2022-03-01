@@ -1,0 +1,2 @@
+# Moms-Cake-Studio
+Mom's Cake Studio aims in developing web application which help the customers to shop the cakes online based on their choice of different categories. This e-commerce application is  developed using Java(version 1.8),Spring Boot, Hibernate, Thymeleaf, Mysql. To make it more responsive bootstrap, Html ,CSS, Javascript is used. I have also integrated Paytm payment gateway API, so user can make transaction. Add to cart facility is also available for users. 
